@@ -24,11 +24,11 @@ repository               : "achhag/academic"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Achim Hagen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Guest Professor for Environmental and Political Economics"
+  location         : "Berlin"
+  employer         : "Humboldt Univerity"
   uri              : # URL
   email            : "none@example.org" 
 
