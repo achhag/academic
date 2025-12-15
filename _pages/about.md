@@ -11,9 +11,9 @@ My primary research focus is to enhance our understanding of the economic implic
 
 Selected current work
 ======
-Working Paper 1
-Working Paper 2
-Working Paper 3
+Working Paper 1  +
+Working Paper 2  +
+Working Paper 3  +
 
 Selected publications
 ======
