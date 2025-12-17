@@ -23,7 +23,7 @@ repository               : "achhag/academic"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "achimhagen.png"
   name             : "Achim Hagen"
   pronouns         : # example: "she/her"  
   bio              : "Guest Professor for Environmental and Political Economics"
