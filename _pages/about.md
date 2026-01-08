@@ -9,7 +9,7 @@ redirect_from:
 
 <p>
 I am a Guest Professor for Environmental and Political Economics at
-<a href="https://www.hu-berlin.de" target="_blank" rel="noopener noreferrer">
+<a href="https://www.agrar.hu-berlin.de/en/institut-en/departments/daoe/ress-en/staffmem/achim-hagen-m-a" target="_blank" rel="noopener noreferrer">
 Humboldt Universität zu Berlin
 </a>
 and Head of the junior research group
@@ -20,15 +20,15 @@ PECan (The Political Economy of Climate Policy and Finance)
 
 <p>
 I am also a Research Associate and Faculty Member at the
-<a href="https://www.berlin-school-of-economics.de" target="_blank" rel="noopener noreferrer">
+<a href="https://berlinschoolofeconomics.de/home" target="_blank" rel="noopener noreferrer">
 Berlin School of Economics
 </a>,
 a Research Affiliate of the
-<a href="https://www.cesifo.org" target="_blank" rel="noopener noreferrer">
+<a href="https://www.ifo.de/en/cesifo/cesifo-homepage" target="_blank" rel="noopener noreferrer">
 CESifo Research Network
 </a>,
 and a Guest Researcher at the
-<a href="https://www.pik-potsdam.de" target="_blank" rel="noopener noreferrer">
+<a href="https://www.pik-potsdam.de/en" target="_blank" rel="noopener noreferrer">
 Potsdam Institute for Climate Impact Research
 </a>. I was a visiting scholar at the University of Bologna,
 the University of Oslo, and Wageningen University.
