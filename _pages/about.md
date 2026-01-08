@@ -13,7 +13,7 @@ I am a Guest Professor for Environmental and Political Economics at
 Humboldt Universität zu Berlin
 </a>
 and Head of the junior research group
-<a href="https://www.pecan-project.org" target="_blank" rel="noopener noreferrer">
+<a href="https://www.pecan-climate.org/" target="_blank" rel="noopener noreferrer">
 PECan (The Political Economy of Climate Policy and Finance)
 </a>.
 </p>
