@@ -30,22 +30,8 @@ CESifo Research Network
 and a Guest Researcher at the
 <a href="https://www.pik-potsdam.de" target="_blank" rel="noopener noreferrer">
 Potsdam Institute for Climate Impact Research
-</a>.
-</p>
-
-<p>
-I was a visiting scholar at the
-<a href="https://www.unibo.it" target="_blank" rel="noopener noreferrer">
-University of Bologna
-</a>,
-the
-<a href="https://www.uio.no" target="_blank" rel="noopener noreferrer">
-University of Oslo
-</a>,
-and
-<a href="https://www.wur.nl" target="_blank" rel="noopener noreferrer">
-Wageningen University
-</a>.
+</a>. I was a visiting scholar at the University of Bologna,
+the University of Oslo, and Wageningen University.
 </p>
 
 Selected current work
@@ -56,7 +42,32 @@ Working Paper 3
 
 Selected publications
 ======
-Paper 1  
-Paper 2  
-Paper 3  
+<p>
+<strong>Hagen, A., Contested Compromise: Public Policy Reforms as Share Contests</strong><br>
+<em>Economic & Politics 0: 1–11.</em>, (2025)<br>
+<a href="https://doi.org/10.1111/ecpo.70024" target="_blank">Link</a>  
+</p>
+  
+<p>
+<strong>von Dulong, A., Hagen, A., Institutions make a difference: assessing the predictors of climate policy stringency using machine learning</strong><br>
+<em>Environ. Res. Lett. 20 014056</em>, (2025)<br>
+<a href="https://doi.org/10.1088/1748-9326/ada0cb" target="_blank">Link</a>  
+</p>
 
+<p>
+<strong>Hagen, A., Schopf, M., Political influence on international climate agreements with border carbon adjustment</strong><br>
+<em>Journal of Environmental Economics and Management, 102979</em>, (2024)<br>
+<a href="https://doi.org/10.1016/j.jeem.2024.102979" target="_blank">Link</a>  
+</p>
+
+<p>
+<strong>von Dulong, A., Gard-Murray, A., Hagen, A., Jaakkola, N., & Sen, S., Stranded Assets: Research Gaps and Implications for Climate Policy</strong><br>
+<em>Review of Environmental Economics and Policy, vol. 17(1), pages 161-169, 161-169</em>, (2023)<br>
+<a href="http://dx.doi.org/10.1086/723768" target="_blank">Link</a>  
+</p>
+
+<p>
+<strong>Hagen, A., Schneider, J., Trade sanctions and the stability of climate coalitions</strong><br>
+<em>Journal of Environmental Economics and Management 109 102504</em>, (2021)<br>
+<a href="https://doi.org/10.1016/j.jeem.2021.102504" target="_blank">Link</a>  
+</p>
