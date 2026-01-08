@@ -34,11 +34,20 @@ Potsdam Institute for Climate Impact Research
 the University of Oslo, and Wageningen University.
 </p>
 
-Selected current work
+Selected working papers 
 ======
-Working Paper 1  
-Working Paper 2  
-Working Paper 3  
+
+<p>
+<strong>Hagen, A., Kollenbach, G., Climate Policies, Investments and the Role of Elections</strong><br>
+<em>CESifo working paper 12063</em>, (2025)<br>
+<a href="https://www.ifo.de/DocDL/cesifo1_wp12063.pdf" target="_blank">Link</a>  
+</p>
+
+<p>
+<strong>Fliegel, P., Hagen, A., Koch, N., Ritter, N., Carbon Pricing and Household Finance: How Banks Price Transition Risk in Auto Loans</strong><br>
+<em>CESifo Working Paper 12288</em>, (2025)<br>
+<a href="https://www.ifo.de/DocDL/cesifo1_wp12288.pdf" target="_blank">Link</a>  
+</p>
 
 Selected publications
 ======
