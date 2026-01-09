@@ -27,7 +27,7 @@ a Research Affiliate of the
 <a href="https://www.ifo.de/en/cesifo/cesifo-homepage" target="_blank" rel="noopener noreferrer">
 CESifo Research Network
 </a>,
-and a Guest Researcher at the
+and a guest researcher at the
 <a href="https://www.pik-potsdam.de/en" target="_blank" rel="noopener noreferrer">
 Potsdam Institute for Climate Impact Research
 </a>. I was a visiting scholar at the University of Bologna,
