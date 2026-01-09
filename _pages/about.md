@@ -37,11 +37,11 @@ the University of Oslo, and Wageningen University.
 News 
 ======
 <p>
-I will present "Carbon Pricing and Household Finance: How Banks Price Transition Risk in Auto Loans" at the <a href="https://www.cee-m.fr/event/achim-hagen-to-be-announced/" target="_blank" rel="noopener noreferrer"> Centre for Environmental Economics Montpellier </a>.
+I will present "Carbon Pricing and Household Finance: How Banks Price Transition Risk in Auto Loans" at the <a href="https://www.uea.ac.uk/about/school-of-economics/research/seminar-series/external-seminars" target="_blank" rel="noopener noreferrer"> University of East Anglia </a>.
 </p>
 
 <p>
-I will present "Carbon Pricing and Household Finance: How Banks Price Transition Risk in Auto Loans" at the <a href="https://www.uea.ac.uk/about/school-of-economics/research/seminar-series/external-seminars" target="_blank" rel="noopener noreferrer"> University of East Anglia </a>.
+I will present "Carbon Pricing and Household Finance: How Banks Price Transition Risk in Auto Loans" at the <a href="https://www.cee-m.fr/event/achim-hagen-to-be-announced/" target="_blank" rel="noopener noreferrer"> Centre for Environmental Economics Montpellier </a>.
 </p>
 
 <p>
