@@ -41,19 +41,31 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Contact-Seite Definition List, ohne Einrückung */
+/* Contact-Seite Definition List, linksbündig */
 dl.contact-list {
-  margin: 0;            /* kein Außenabstand links */
-  padding: 0;           /* kein Innenabstand links */
+  margin: 0;            /* kein Abstand um die Liste */
+  padding: 0;           /* kein Padding */
 }
 
 dl.contact-list dt {
   font-weight: bold;
   font-size: 1em;
+  margin-left: 0;       /* Einrückung entfernen */
 }
 
 dl.contact-list dd {
   font-weight: normal;
   font-size: 1em;
+  margin: 0 0 0.5em 0;  /* unten Abstand, sonst links bündig */
+  padding-left: 0;      /* Einrückung entfernen */
+}
+
+  font-weight: normal;
+  font-size: 1em;
   margin-bottom: 0.5em;
+}
+dl.contact-list dt, 
+dl.contact-list dd {
+  float: none;
+  width: auto;
 }
