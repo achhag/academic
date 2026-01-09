@@ -4,13 +4,16 @@ permalink: /contact/
 ---
 
 **Phone**
-: +49 (0)30 2093 46376
+: <span class="contact-value">+49 (0)30 2093 46376</span>
 
 **Email**
-: [achim.hagen@hu-berlin.de](mailto:achim.hagen@hu-berlin.de)
+: <span class="contact-value">
+  <a href="mailto:achim.hagen@hu-berlin.de">achim.hagen@hu-berlin.de</a>
+  </span>
 
 **Office**
-: Humboldt University Berlin
+: <span class="contact-value">Humboldt University Berlin</span>
 
 **Address**
-: Hannoversche Str. 27, D-10115 Berlin
+: <span class="contact-value">Hannoversche Str. 27, D-10115 Berlin</span>
+
