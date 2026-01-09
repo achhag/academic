@@ -37,14 +37,14 @@ the University of Oslo, and Wageningen University.
 News 
 ======
 
-This is what happened recently
+I will present xyz at xyz
 
 Selected working papers 
 ======
 
 <p>
 <strong>Hagen, A., Kollenbach, G., Climate Policies, Investments and the Role of Elections</strong><br>
-<em>CESifo working paper 12063</em>, (2025)<br>
+<em>CESifo Working Paper 12063</em>, (2025)<br>
 <a href="https://www.ifo.de/DocDL/cesifo1_wp12063.pdf" target="_blank">Link</a>  
 </p>
 
