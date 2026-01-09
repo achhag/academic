@@ -61,4 +61,15 @@ dl.contact-list dd {
   font-size: 1.5rem;   /* Werte gleich groß wie Labels */
   margin-bottom: 0.8em;
 }
+/* Contact-Seite Definition List, Schriftgröße passend zum Theme */
+dl.contact-list dt {
+  font-weight: bold;       /* Labels fett */
+  font-size: inherit;      /* übernimmt Standardgröße für Überschriften/Label */
+}
+
+dl.contact-list dd {
+  font-weight: normal;     /* Werte normal */
+  font-size: inherit;      /* gleiche Größe wie Research-Text */
+  margin-bottom: 0.8em;   /* Abstand zwischen Einträgen */
+}
 
