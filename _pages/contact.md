@@ -16,4 +16,3 @@ permalink: /contact/
   <dt>Address</dt>
   <dd>Hannoversche Str. 27, D-10115 Berlin</dd>
 </dl>
-
