@@ -36,8 +36,17 @@ the University of Oslo, and Wageningen University.
 
 News 
 ======
+<p>
+I will present "Carbon Pricing and Household Finance: How Banks Price Transition Risk in Auto Loans" at the <a href="https://www.cee-m.fr/event/achim-hagen-to-be-announced/" target="_blank" rel="noopener noreferrer"> Centre for Environmental Economics Montpellier </a>.
+</p>
 
-I will present xyz at xyz
+<p>
+I will present "Carbon Pricing and Household Finance: How Banks Price Transition Risk in Auto Loans" at the <a href="https://www.uea.ac.uk/about/school-of-economics/research/seminar-series/external-seminars" target="_blank" rel="noopener noreferrer"> University of East Anglia </a>.
+</p>
+
+<p>
+"Contested Compromise: Public Policy Reforms as Share Contests" is published in <a href="https://doi.org/10.1111/ecpo.70024" target="_blank"> <em>Economic & Politics</em> </a>.  
+</p>
 
 Selected working papers 
 ======
