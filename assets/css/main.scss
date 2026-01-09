@@ -42,16 +42,21 @@
     "vendor/font-awesome/brands"
 ;
 
-/* -----------------------------------------
-   Contact-Seite: Definition List
------------------------------------------ */
+/* Contact-Seite Definition List, ohne Einrückung */
+dl.contact-list {
+  margin: 0;            /* kein Außenabstand links */
+  padding: 0;           /* kein Innenabstand links */
+}
+
 dl.contact-list dt {
-  font-weight: bold;   /* Label fett */
-  font-size: 1em;      /* gleich wie Überschrift auf Research-Seite */
+  font-weight: bold;
+  font-size: 1em;
 }
 
 dl.contact-list dd {
-  font-weight: normal; /* Wert normal */
-  font-size: 1em;      /* gleiche Größe wie Research-Text */
-  margin-bottom: 0.5em; /* Abstand zwischen Einträgen */
+  font-weight: normal;
+  font-size: 1em;
+  margin-bottom: 0.5em;
+}
+
 }
