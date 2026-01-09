@@ -46,18 +46,19 @@
   font-weight: normal;
   margin-bottom: 0.8em;
 }
-/* Alle Definition Lists auf Contact-Seite */
-dl {
+/* Contact-Seite Definition List */
+dl.contact-list {
   margin-bottom: 1em;
 }
 
-dt {
+dl.contact-list dt {
   font-weight: bold;
-  font-size: 1.2em;
+  font-size: 1.5rem;   /* Labels größer */
 }
 
-dd {
+dl.contact-list dd {
   font-weight: normal;
-  font-size: 1.1em;
+  font-size: 1.5rem;   /* Werte gleich groß wie Labels */
   margin-bottom: 0.8em;
 }
+
