@@ -14,23 +14,23 @@ Humboldt Universität zu Berlin
 </a>
 and Head of the junior research group
 <a href="https://www.pecan-climate.org/" target="_blank" rel="noopener noreferrer">
-PECan (The Political Economy of Climate Policy and Finance)
-</a>.
+PECan (The Political Economy of Climate Policy and Finance).
+</a>
 </p>
 
 <p>
 I am also a Research Associate and Faculty Member at the
 <a href="https://berlinschoolofeconomics.de/home" target="_blank" rel="noopener noreferrer">
-Berlin School of Economics
-</a>,
+Berlin School of Economics,
+</a>
 a Research Affiliate of the
 <a href="https://www.ifo.de/en/cesifo/cesifo-homepage" target="_blank" rel="noopener noreferrer">
-CESifo Research Network
-</a>,
+CESifo Research Network,
+</a>
 and a guest researcher at the
 <a href="https://www.pik-potsdam.de/en" target="_blank" rel="noopener noreferrer">
-Potsdam Institute for Climate Impact Research
-</a>. I was a visiting scholar at the University of Bologna,
+Potsdam Institute for Climate Impact Research.
+</a> I was a visiting scholar at the University of Bologna,
 the University of Oslo, and Wageningen University.
 </p>
 
