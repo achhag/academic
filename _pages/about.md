@@ -34,6 +34,11 @@ Potsdam Institute for Climate Impact Research
 the University of Oslo, and Wageningen University.
 </p>
 
+News 
+======
+
+This is what happened recently
+
 Selected working papers 
 ======
 
