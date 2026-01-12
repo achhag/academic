@@ -59,10 +59,10 @@ dl.contact-list dd {
   margin: 0 0 0.5em 0;  /* unten Abstand, sonst links bündig */
   padding-left: 0;      /* Einrückung entfernen */
 }
-@import "custom";
  
 dl.contact-list dt, 
 dl.contact-list dd {
   float: none;
   width: auto;
 }
+@import "custom";
