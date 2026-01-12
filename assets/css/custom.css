@@ -1,25 +1,49 @@
 /* =========================================================
-   Minimal Custom CSS – build-sicher
-   Alle Inhalte sichtbar, Desktop unverändert
+   Custom CSS – Mobile Fix für festen Header (masthead)
+   Repository: achhag/academic
    ========================================================= */
 
-/* Box-sizing für alle Content-Bereiche */
+/* Basis: nichts am Desktop verändern */
 .initial-content,
-.page__content,
-.page__hero,
-.about__content {
+.page__content {
   box-sizing: border-box;
 }
 
-/* Mobile kleine Abstände, kein Fixing oder !important */
+/* ---------------------------------------------------------
+   MOBILE FIX
+   Der Masthead ist "position: fixed" und überdeckt sonst
+   den oberen Seiteninhalt (Foto / Hero-Bereich)
+   --------------------------------------------------------- */
 @media (max-width: 768px) {
-  .initial-content,
+
+  /* Haupt-Content unter den Header schieben */
+  .initial-content {
+    padding-top: 4.5rem; /* ≈ Höhe der mobilen Navigation */
+  }
+
+  /* Falls Hero / About / Startseite */
+  .page__hero,
   .page__content {
-    padding-left: 1rem;
-    padding-right: 1rem;
     margin-top: 0;
   }
-  .page__hero {
-    margin-top: 0;
+
+  /* Sicherheit: kein zusätzliches Body-Padding */
+  body {
+    padding-top: 0;
+  }
+
+}
+
+/* ---------------------------------------------------------
+   OPTIONAL:
+   Wenn du KEIN fixiertes Menü auf Mobile willst,
+   diese Zeilen aktivieren (auskommentieren entfernen)
+   ---------------------------------------------------------
+
+@media (max-width: 768px) {
+  .masthead {
+    position: relative;
   }
 }
+
+---------------------------------------------------------- */
