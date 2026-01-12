@@ -1,24 +1,28 @@
 /* =========================================================
    Custom CSS – Mobile Fix für festen Header (masthead)
+   Repo: achhag/academic
    ========================================================= */
 
+/* ---------------------------------------------------------
+   GLOBAL
+--------------------------------------------------------- */
 .initial-content,
-.page__content {
+.page__content,
+.page__hero,
+.about__content {
   box-sizing: border-box;
 }
 
+/* ---------------------------------------------------------
+   MOBILE FIX
+--------------------------------------------------------- */
 @media (max-width: 768px) {
 
-  .initial-content {
-    padding-top: 4.5rem;
-  }
-
+  /* Höhe des fixen Mastheads ausgleichen */
+  .initial-content,
   .page__hero,
-  .page__content {
-    margin-top: 0;
+  .about__content {
+    padding-top: 80px; /* bewusst in px, Header ist ~72–80px */
   }
 
-  body {
-    padding-top: 0;
-  }
-}
+  /
