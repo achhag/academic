@@ -1,9 +1,9 @@
 /* =========================================================
-   Minimal Custom CSS – nur sichere Anpassungen
+   Minimal Custom CSS – build-sicher
    Alle Inhalte sichtbar, Desktop unverändert
    ========================================================= */
 
-/* Box-sizing für Content */
+/* Box-sizing für alle Content-Bereiche */
 .initial-content,
 .page__content,
 .page__hero,
@@ -11,11 +11,15 @@
   box-sizing: border-box;
 }
 
-/* Optional: kleine Padding-Anpassung für Mobile */
+/* Mobile kleine Abstände, kein Fixing oder !important */
 @media (max-width: 768px) {
-  .page__content,
-  .initial-content {
+  .initial-content,
+  .page__content {
     padding-left: 1rem;
     padding-right: 1rem;
+    margin-top: 0;
+  }
+  .page__hero {
+    margin-top: 0;
   }
 }
