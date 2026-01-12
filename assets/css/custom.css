@@ -1,45 +1,38 @@
 /* =========================================================
-   Mobile Fix – Header überdeckt nichts
-   Academic / Minimal-Mistakes
+   Custom CSS für achhag/academic
+   Zweck: 
+   - Mobile Header scrollt mit
+   - Bilder / Hero auf allen Seiten sichtbar
+   - Safe Area auf iPhone korrekt berücksichtigt
+   - Desktop Layout unverändert
    ========================================================= */
 
-@media (max-width: 768px) {
-
-  /* Alle Header-Wrapper auf relative zwingen */
-  .masthead,
-  .masthead__inner-wrap,
-  .masthead__menu,
-  .greedy-nav {
-    position: relative !important;
-    top: auto !important;
-    height: auto !important;
-    z-index: auto !important;
-  }
-
-  /* Body-Padding auf Safe Area */
-  body {
-    padding-top: env(safe-area-inset-top) !important;
-  }
-
-  /* Content korrekt platzieren */
-  .initial-content,
-  .page__hero,
-  .page__content,
-  .about__content {
-    margin-top: 0 !important;
-    padding-top: 0 !important;
-  }
-
-  /* Test: Hintergrund rot – sollte sichtbar sein */
-  body {
-    background-color: red !important;
-  }
+/* ------------------------------
+   Allgemeine Box-Sizing für Content
+---------------------------------*/
+.initial-content,
+.page__content,
+.page__hero,
+.about__content {
+  box-sizing: border-box;
 }
+
+/* ------------------------------
+   Mobile Fix (<768px)
+---------------------------------*/
 @media (max-width: 768px) {
+
+  /* Greedy Nav auf Mobile deaktivieren */
   .greedy-nav--disabled {
     position: relative !important;
     top: auto !important;
     height: auto !important;
     z-index: auto !important;
   }
-}
+
+  /* Body Safe Area einrechnen (iOS) */
+  body {
+    padding-top: env(safe-area-inset-top) !important;
+  }
+
+  /* Cont*
