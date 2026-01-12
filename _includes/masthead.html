@@ -1,16 +1,41 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <!-- Navigation mit deaktivierter Greedy Nav auf Mobile -->
-      <nav id="site-nav" class="greedy-nav greedy-nav--disabled">
+      <!-- Navigation -->
+      <nav id="site-nav" class="greedy-nav">
 
-        <!-- Toggle Button für Mobile -->
+        <!-- Mobile Toggle -->
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle Menu</span>
           <div class="navicon"></div>
         </button>
 
-        <!-- Hauptlinks -->
+        <!-- Links -->
         <ul class="visible-links">
-          <!-- Startseite / Site Title -->
           <li class="masthead__menu-item masthead__menu-item--lg persist">
+            <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+          </li>
+
+          {% for link in site.data.navigation.main %}
+            {% if link.url contains 'http' %}
+              {% assign domain = '' %}
+            {% else %}
+              {% assign domain = site.baseurl %}
+            {% endif %}
+            <li class="masthead__menu-item">
+              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+            </li>
+          {% endfor %}
+
+          <li id="theme-toggle" class="masthead__menu-item persist tail">
+            <a role="button" aria-labelledby="theme-icon">
+              <i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i>
+            </a>
+          </li>
+        </ul>
+
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
