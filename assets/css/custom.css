@@ -1,15 +1,9 @@
 /* =========================================================
-   Custom CSS für achhag/academic
-   Zweck: 
-   - Mobile Header scrollt mit
-   - Bilder / Hero auf allen Seiten sichtbar
-   - Safe Area auf iPhone korrekt berücksichtigt
-   - Desktop Layout unverändert
+   Minimal Custom CSS – nur sichere Anpassungen
+   Alle Inhalte sichtbar, Desktop unverändert
    ========================================================= */
 
-/* ------------------------------
-   Allgemeine Box-Sizing für Content
----------------------------------*/
+/* Box-sizing für Content */
 .initial-content,
 .page__content,
 .page__hero,
@@ -17,22 +11,11 @@
   box-sizing: border-box;
 }
 
-/* ------------------------------
-   Mobile Fix (<768px)
----------------------------------*/
+/* Optional: kleine Padding-Anpassung für Mobile */
 @media (max-width: 768px) {
-
-  /* Greedy Nav auf Mobile deaktivieren */
-  .greedy-nav--disabled {
-    position: relative !important;
-    top: auto !important;
-    height: auto !important;
-    z-index: auto !important;
+  .page__content,
+  .initial-content {
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
-
-  /* Body Safe Area einrechnen (iOS) */
-  body {
-    padding-top: env(safe-area-inset-top) !important;
-  }
-
-  /* Cont*
+}
