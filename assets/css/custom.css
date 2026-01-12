@@ -1,28 +1,22 @@
 /* =========================================================
-   Custom CSS – Mobile Fix für festen Header (masthead)
+   Globaler Fix: fester Masthead überdeckt Content (Mobile)
    Repo: achhag/academic
    ========================================================= */
 
-/* ---------------------------------------------------------
-   GLOBAL
---------------------------------------------------------- */
-.initial-content,
-.page__content,
-.page__hero,
-.about__content {
-  box-sizing: border-box;
-}
-
-/* ---------------------------------------------------------
-   MOBILE FIX
---------------------------------------------------------- */
+/* Desktop unverändert lassen */
 @media (max-width: 768px) {
 
-  /* Höhe des fixen Mastheads ausgleichen */
-  .initial-content,
-  .page__hero,
-  .about__content {
-    padding-top: 80px; /* bewusst in px, Header ist ~72–80px */
+  /* Höhe des fixen Headers global ausgleichen */
+  body {
+    padding-top: 80px; /* entspricht mobiler Masthead-Höhe */
   }
 
-  /
+  /* Sicherheit: kein zusätzliches Offset in Containern */
+  .initial-content,
+  .page__content,
+  .page__hero,
+  .about__content {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+}
