@@ -1,25 +1,29 @@
 /* =========================================================
-   Mobile Fix: Masthead NICHT fixieren
+   iOS / Mobile FIX – Header überdeckt Content
    Repo: achhag/academic
    ========================================================= */
 
 @media (max-width: 768px) {
 
-  /* Navigation scrollt mit – verhindert Überlappen */
-  .masthead {
+  /* 1. ALLE Header-Elemente aus dem Fixed-Modus lösen */
+  .masthead,
+  .masthead__inner-wrap,
+  .masthead__menu,
+  .greedy-nav {
     position: relative !important;
-    top: auto;
+    top: auto !important;
+    height: auto !important;
   }
 
-  /* Kein globales Padding nötig */
+  /* 2. iOS Safe Area korrekt einrechnen */
   body {
-    padding-top: 0 !important;
+    padding-top: env(safe-area-inset-top);
   }
 
-  /* Sicherheit für alle Layouts */
+  /* 3. Sicherstellen, dass Content NICHT hochgezogen wird */
   .initial-content,
-  .page__content,
   .page__hero,
+  .page__content,
   .about__content {
     margin-top: 0 !important;
     padding-top: 0 !important;
