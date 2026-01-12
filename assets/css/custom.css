@@ -1,17 +1,22 @@
 /* =========================================================
-   Globaler Fix: fester Masthead überdeckt Content (Mobile)
+   Mobile Fix: Masthead NICHT fixieren
    Repo: achhag/academic
    ========================================================= */
 
-/* Desktop unverändert lassen */
 @media (max-width: 768px) {
 
-  /* Höhe des fixen Headers global ausgleichen */
-  body {
-    padding-top: 80px; /* entspricht mobiler Masthead-Höhe */
+  /* Navigation scrollt mit – verhindert Überlappen */
+  .masthead {
+    position: relative !important;
+    top: auto;
   }
 
-  /* Sicherheit: kein zusätzliches Offset in Containern */
+  /* Kein globales Padding nötig */
+  body {
+    padding-top: 0 !important;
+  }
+
+  /* Sicherheit für alle Layouts */
   .initial-content,
   .page__content,
   .page__hero,
