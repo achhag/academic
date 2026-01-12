@@ -1,3 +1,7 @@
+body {
+  background: red !important;
+}
+
 /* =========================================================
    iOS / Mobile FIX – Header überdeckt Content
    Repo: achhag/academic
