@@ -16,9 +16,6 @@ and Head of the junior research group
 <a href="https://www.pecan-climate.org/" target="_blank" rel="noopener noreferrer">
 PECan (The Political Economy of Climate Policy and Finance).
 </a>
-</p>
-
-<p>
 I am also a Research Associate and Faculty Member at the
 <a href="https://berlinschoolofeconomics.de/home" target="_blank" rel="noopener noreferrer">
 Berlin School of Economics,
