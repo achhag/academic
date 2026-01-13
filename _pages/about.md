@@ -30,6 +30,9 @@ Potsdam Institute for Climate Impact Research.
 </a> I was a visiting scholar at the University of Bologna,
 the University of Oslo, and Wageningen University.
 </p>
+<p>
+My research examines the economic implications of domestic and international climate policy, with a particular focus on political economy considerations and the interaction between climate policy and finance. My work aims to inform policy design and support the transition toward a sustainable, carbon-neutral economy.
+</p>
 
 News 
 ======
