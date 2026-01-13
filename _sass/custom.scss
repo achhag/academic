@@ -1,16 +1,21 @@
-/* Datei: assets/css/custom.css */
-/* Einfacher Fix für mobile Ansicht */
+/* =========================================================
+   Mobile Fix für Minimal Mistakes / academic
+   Ursache: fixed masthead überdeckt Content auf Mobile
+   ========================================================= */
 
 @media (max-width: 768px) {
-  .page__content {
-    margin-top: 20px;
-    padding-top: 20px;
+
+  /* Header soll auf Mobile scrollen */
+  .masthead {
+    position: relative;
   }
-  
+
+  /* Content normal anzeigen */
   .initial-content {
-    margin-top: 20px;
+    padding-top: 0;
+    margin-top: 0;
   }
-  
+
   body {
     padding-top: 0;
   }
